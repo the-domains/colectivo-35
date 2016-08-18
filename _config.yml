@@ -6,9 +6,9 @@ color:
   saturation: 0.584681469714269
   rhythmicContrast: 0.7385369199328125
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: COLECTIVO 35
